@@ -38,6 +38,10 @@ body {
   top:10vh;
   z-index: 1;
 }
+.container div.three {
+  top:10vh;
+  z-index: 1;
+}
 
 .container div.seven,
 .container div.eight {
