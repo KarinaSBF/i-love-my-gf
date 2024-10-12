@@ -23,10 +23,19 @@ body {
   visibility: hidden;
   position: relative;
   overflow: hidden;
+  
+}
+.container div.one {
+  top:5vh;
+  z-index: 1;
 }
 
 .container div.six {
   top: 10vh;
+  z-index: 1;
+}
+.container div.reason2 {
+  top:10vh;
   z-index: 1;
 }
 
